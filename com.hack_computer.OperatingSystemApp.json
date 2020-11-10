@@ -23,7 +23,8 @@
     "--talk-name=com.hack_computer.HackSoundServer",
     "--talk-name=org.gnome.Shell",
     "--talk-name=com.hack_computer.HackableAppsManager",
-    "--talk-name=com.hack_computer.hack"
+    "--talk-name=com.hack_computer.hack",
+    "--require-version=1.8.2"
   ],
   "modules": [
     {
@@ -44,7 +45,8 @@
         {
           "type": "git",
           "url": "https://github.com/endlessm/hack-toy-apps.git",
-          "commit": "2eecbacedd148f5023e0d996524965b69452da0a"
+          "commit": "868fab87042f2a49d7f353525eee962aed1d54a1",
+          "branch": "eos3"
         }
       ]
     }
