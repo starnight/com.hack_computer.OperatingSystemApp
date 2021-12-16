@@ -9,7 +9,7 @@
       }
   },
   "runtime": "org.gnome.Platform",
-  "runtime-version": "3.36",
+  "runtime-version": "41",
   "sdk": "org.gnome.Sdk",
   "command": "com.hack_computer.OperatingSystemApp",
   "finish-args": [
