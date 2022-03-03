@@ -46,8 +46,8 @@
         {
           "type": "git",
           "url": "https://github.com/endlessm/hack-toy-apps.git",
-          "commit": "16000a178a3bd7ffa62f125f1e4915ec00625701",
-          "branch": "eos3"
+          "commit": "b71cc19c021036d2708f1a0f9653e3b680a351e5",
+          "branch": "eos5"
         }
       ]
     }
