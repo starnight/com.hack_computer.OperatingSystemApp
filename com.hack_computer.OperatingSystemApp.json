@@ -9,7 +9,7 @@
       }
   },
   "runtime": "org.gnome.Platform",
-  "runtime-version": "43",
+  "runtime-version": "42",
   "sdk": "org.gnome.Sdk",
   "command": "com.hack_computer.OperatingSystemApp",
   "finish-args": [
@@ -46,8 +46,7 @@
         {
           "type": "git",
           "url": "https://github.com/endlessm/hack-toy-apps.git",
-          "commit": "b71cc19c021036d2708f1a0f9653e3b680a351e5",
-          "branch": "eos5"
+          "commit": "90c03e5753f77db8c68104149c8ad252b5d5e702"
         }
       ]
     }
